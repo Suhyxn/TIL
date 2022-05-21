@@ -35,6 +35,9 @@ export default {
 </script>
 ```
 
+<br/>
+<br/>
+
 ### Setter
 
 Computed 속성의 Setter
@@ -82,7 +85,11 @@ export default {
 </script>
 ```
 
+<br/>
+<br/>
+
 ### Watch
+
 감시할 데이터를 지정하고 그 데이터가 바뀌면 선언한 함수를 실행하라는 방식으로 명령형 프로그래밍이다. <br/>
 => 차이점 : computed속성은 계산해야 하는 목표 데이터를 정의하는 방식으로 선언형 프로그래밍이다. <br/>
 <br/>
