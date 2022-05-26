@@ -218,5 +218,5 @@ export default {
 **Reference**
 
 <ul>
-  <li><a href="https://v3.ko.vuejs.org/guide/template-syntax.html">VUE.JS</a></li>
+  <li><a href="https://v3.ko.vuejs.org/guide/forms.html#%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8">VUE.JS</a></li>
 </ul>
